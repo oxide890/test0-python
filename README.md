@@ -1,6 +1,6 @@
 # test0-python
 Initial test 
 This is an example project to learn hoe to use git with ubuntu and
-pycharm. a
+pycharm. d
 
-this is a comment. Cool!!
+even more words! word word word cat
